@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="center">Hi i am doxiado a random guy who uploads his projects to github<br>Currently learning nextjs along with javascript and other languages<br>If you want to check out my websites<br>here is the links<br>https://dsc.gg/ibfmstudios<br>https://myuser.lol/doxiado</p>
+<p align="center">Hi i am doxiado a random guy who uploads his projects to github<br>Currently learning nextjs along with javascript and other languages<br>If you want to check out my websites<br>here is the links<br>https://dsc.gg/CoffinCorp<br>https://guns.lol/doxiado</p>
 
 ###
 
