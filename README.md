@@ -1,3 +1,13 @@
+<p align="center">
+  <h1>sync</h1>
+  <a href="https://komarev.com/ghpvc"> <img align="center" src="https://komarev.com/ghpvc/?username=verticalsync"/></a>
+  
+  <p>Hey, I'm nyx, I'm a 16 year old who wants to learn more about programming.</p>
+  <br>
+  <p>You can contact me on discord and telegram</p>
+
+  <a href="https://discord.com/users/1207087393929171095"> <img align="center" src="https://lanyard.cnrad.dev/api/1207087393929171095"/></a>
+  
 <h2 align="left"></h2>
 
 ###
