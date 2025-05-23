@@ -9,7 +9,6 @@
   <a href="https://discord.com/users/763141886834769980"> <img align="center" src="https://lanyard.cnrad.dev/api/763141886834769980"/></a>
 
   <p>Telegram: https://t.me/doxiado</p>
-   </br>
   
 <h2 align="left"></h2>
 
