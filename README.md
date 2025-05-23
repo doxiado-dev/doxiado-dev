@@ -1,3 +1,7 @@
+###
+
+<br clear="both">
+
 <p align="center">
   <h1>dox</h1>
   <a href="https://komarev.com/ghpvc"> <img align="center" src="https://komarev.com/ghpvc/?username=doxiado-dev"/></a>
@@ -11,10 +15,6 @@
   <p>Telegram: https://t.me/doxiado</p>
   
 <h2 align="left"></h2>
-
-###
-
-<br clear="both">
 
 
 ###
