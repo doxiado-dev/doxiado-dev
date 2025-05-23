@@ -6,7 +6,7 @@
   <br>
   <p>You can contact me on discord and telegram</p>
 
-  <a href="https://discord.com/users/763141886834769981"> <img align="center" src="https://lanyard.cnrad.dev/api/763141886834769980"/></a>
+  <a href="https://discord.com/users/763141886834769981"> <img align="center" src="https://lanyard.cnrad.dev/api/763141886834769981"/></a>
 
   <p>Telegram: https://t.me/doxiado</p>
   
