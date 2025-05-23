@@ -2,7 +2,7 @@
   <h1>sync</h1>
   <a href="https://komarev.com/ghpvc"> <img align="center" src="https://komarev.com/ghpvc/?username=doxiado-dev"/></a>
   
-  <p>Hey, I'm nyx, I'm a 16 year old who wants to learn more about programming.</p>
+  <p>Hey, I'm dox, I'm a 17 year old who wants to learn more about programming.</p>
   <br>
   <p>You can contact me on discord and telegram</p>
 
