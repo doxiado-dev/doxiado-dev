@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>dox!</h1>
+  <h1>dox</h1>
   <a href="https://komarev.com/ghpvc"> <img align="center" src="https://komarev.com/ghpvc/?username=doxiado-dev"/></a>
   
   <p>Hey, I'm dox, I'm a 17 year old who wants to learn more about programming.</p>
