@@ -16,5 +16,29 @@
   <img src="https://komarev.com/ghpvc/?username=doxiado-dev&color=gray&style=plastic" alt=":name" />
   <br>
   <br>
+  <h3 align="center">💎 My stack (6)</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cs,html,css,js,git" />
+  </a>
+</p>
+<h3 align="center">🍺 Frameworks (4)</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flask,fastapi,selenium,bots" />
+  </a>
+</p>
+<h3 align="center">🎲 Software (5)</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,rider,figma,obsidian,postman" />
+  </a>
+</p>
+<h3 align="center">🏓 Other stuff I know (11)</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,github,gitlab,githubactions,docker,kubernetes,sqlite,postgres,md,nginx,qt" />
+  </a>
+</p>
 
 </p>
