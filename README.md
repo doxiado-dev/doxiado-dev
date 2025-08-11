@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=doxiado-dev&color=gray&style=plastic" alt=":name" />
   <br>
   <br>
-  <h1 align="center">Hi 👋, I'm Creveoolus</h1>
+  <h1 align="center"></h1>
   <h3 align="center">💎 My stack (6)</h3>
 <p align="center">
   <a href="https://skillicons.dev">
