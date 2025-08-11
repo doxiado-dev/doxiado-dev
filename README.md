@@ -13,7 +13,7 @@
   </a>
   <br>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=doxiado-dev&color=black&style=plastic" alt=":name" />
+  <img src="https://komarev.com/ghpvc/?username=doxiado-dev&color=gray&style=plastic" alt=":name" />
   <br>
   <br>
 
