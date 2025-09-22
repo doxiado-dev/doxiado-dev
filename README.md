@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://cursi.ng">
-    <img src="https://lanyard.kyrie25.dev/api/1001319487670333591?waveColor=fff&waveSpotifyColor=212121&gradient=fff&borderRadius=25px&bg=000" alt="Discord Status" />
+    <img src="https://lanyard.kyrie25.dev/api/763141886834769980?waveColor=fff&waveSpotifyColor=212121&gradient=fff&borderRadius=25px&bg=000" alt="Discord Status" />
   </a>
   <br></br>
   <a href="https://github.com/doxiado-dev">
