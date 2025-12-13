@@ -6,7 +6,7 @@
   <a href="https://github.com/doxiado-dev">
     <img src="https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://discord.com/users/763141886834769980">
+  <a href="https://discord.com/users/1233795199311020215">
     <img src="https://img.shields.io/badge/-Discord-black?style=plastic&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://t.me/doxiado">
