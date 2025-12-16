@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://discord.com/users/344131223230087177"> <img align="center" src="https://lanyard.kyrie25.dev/api/442626774841556992?waveColor=222&waveSpotifyColor=212121&gradient=fff&borderRadius=25px&bg=000&animatedDecoration=false&hideNameplate=false&hideTimestamp=true&hideBadges=false&hideActivity=false&hideProfile=false&showDisplayName=false"/></a>
+  <a href="https://discord.com/users/344131223230087177"> <img align="center" src="https://lanyard.kyrie25.dev/api/344131223230087177?waveColor=222&waveSpotifyColor=212121&gradient=fff&borderRadius=25px&bg=000&animatedDecoration=false&hideNameplate=false&hideTimestamp=true&hideBadges=false&hideActivity=false&hideProfile=false&showDisplayName=false"/></a>
   <br>
   <br>
   <a href="https://github.com/doxiado-dev">
