@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=vawnair&color=gray&style=plastic" alt=":name" />
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bhop&theme=dark&hide_border=true&layout=compact&api_domain=wakapi.dev&langs_count=4&disable_animations=true&hide_title=true&hide=text,css,unknown,jsx,bash,json,sql,html,php,toml,markdown,java%20properties,lua" alt="Wakatime stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=doxiado-dev&theme=dark&hide_border=true&layout=compact&api_domain=wakapi.dev&langs_count=4&disable_animations=true&hide_title=true&hide=text,css,unknown,jsx,bash,json,sql,html,php,toml,markdown,java%20properties,lua" alt="Wakatime stats" />
 
 </p>
   <br>
