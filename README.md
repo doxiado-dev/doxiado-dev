@@ -21,10 +21,9 @@
 </p>
   <br>
   <br>
-  
- ### Skills
 
 <p align="center">
+  ### Skills
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
